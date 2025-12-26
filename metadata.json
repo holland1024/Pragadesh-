@@ -1,0 +1,8 @@
+{
+  "name": "Pragadeeshwaran Portfolio",
+  "description": "A modern, AI-enhanced personal portfolio for Pragadeeshwaran, a passionate fresher web developer. Featuring interactive projects, skills visualization, and a Gemini-powered AI assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
